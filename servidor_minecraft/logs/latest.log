@@ -3824,3 +3824,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Aug2025 23:16:27.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail suffocated in a wall
 [16Aug2025 23:18:46.013] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1635, y=109, z=2855}
 [16Aug2025 23:31:16.063] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1657, y=111, z=2848}
+[16Aug2025 23:38:44.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
+[16Aug2025 23:38:44.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[16Aug2025 23:38:44.974] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client blackdesfail
+[16Aug2025 23:38:46.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ander31 lost connection: Disconnected
+[16Aug2025 23:38:46.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 left the game
+[16Aug2025 23:38:46.870] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ander31
