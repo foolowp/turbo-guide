@@ -3126,6 +3126,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-16 22:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-08-16 22:27:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/food/dough": {
     "criteria": {
       "has_water": "2025-08-16 22:26:15 +0000"
