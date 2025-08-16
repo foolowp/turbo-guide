@@ -3817,3 +3817,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Aug2025 23:11:25.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
 [16Aug2025 23:12:05.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ander31 moved too quickly! -2.8463461683065816,3.8245767040478995,8.874063461964852
 [16Aug2025 23:12:05.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3091ms or 61 ticks behind
+[16Aug2025 23:15:35.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Chompy]
+[16Aug2025 23:15:38.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Crocodile
+[16Aug2025 23:15:50.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has made the advancement [Not Today, Thank You]
+[16Aug2025 23:16:05.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
+[16Aug2025 23:16:27.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail suffocated in a wall
+[16Aug2025 23:18:46.013] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1635, y=109, z=2855}

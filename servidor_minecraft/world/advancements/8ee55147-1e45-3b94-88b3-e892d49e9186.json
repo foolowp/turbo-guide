@@ -45,11 +45,14 @@
     "criteria": {
       "woodland": "2025-08-16 23:04:56 +0000",
       "old_growth_woodland": "2025-08-16 23:05:48 +0000",
+      "spider_nest": "2025-08-16 23:12:17 +0000",
       "dryland": "2025-08-16 05:14:30 +0000",
       "wasteland": "2025-08-16 05:08:38 +0000",
       "lush_desert": "2025-08-16 05:23:06 +0000",
+      "wasteland_steppe": "2025-08-16 23:08:31 +0000",
       "volcano": "2025-08-16 23:05:31 +0000",
-      "rocky_rainforest": "2025-08-16 23:04:57 +0000"
+      "rocky_rainforest": "2025-08-16 23:04:57 +0000",
+      "volcanic_plains": "2025-08-16 23:09:09 +0000"
     },
     "done": false
   },
@@ -3684,6 +3687,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-08-16 23:15:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
     "criteria": {
       "has_acacia_planks": "2025-08-16 22:35:27 +0000"
@@ -3864,6 +3873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-16 23:10:47 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/acacia_support": {
     "criteria": {
       "has_plank": "2025-08-16 22:35:27 +0000"
@@ -3945,6 +3960,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
     "criteria": {
       "has_acacia_planks": "2025-08-16 22:35:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-16 23:15:32 +0000"
     },
     "done": true
   },
