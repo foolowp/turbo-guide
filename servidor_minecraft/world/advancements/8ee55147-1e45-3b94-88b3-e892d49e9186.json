@@ -2028,7 +2028,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-16 05:20:28 +0000",
-      "minecraft:husk": "2025-08-16 05:25:57 +0000"
+      "minecraft:husk": "2025-08-16 05:25:57 +0000",
+      "minecraft:zombie": "2025-08-16 22:41:54 +0000"
     },
     "done": false
   },
@@ -3408,6 +3409,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2025-08-16 22:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-08-16 22:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-08-16 22:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-08-16 22:40:14 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/acacia": {
     "criteria": {
       "has_wood": "2025-08-16 22:30:43 +0000"
@@ -3426,9 +3469,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-08-16 22:43:05 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-08-16 22:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 22:42:25 +0000"
     },
     "done": true
   },
@@ -3438,15 +3499,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-16 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-08-16 22:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-08-16 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_chiseled_red_sandstone": "2025-08-16 22:45:42 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-08-16 22:30:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-08-16 22:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-16 22:43:08 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-08-16 22:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-08-16 22:40:14 +0000"
     },
     "done": true
   },
@@ -3468,6 +3583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-16 22:43:08 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-08-16 22:30:43 +0000"
@@ -3486,15 +3607,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-08-16 22:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-08-16 22:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 22:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-08-16 22:35:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-16 22:42:53 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-08-16 22:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-16 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-08-16 22:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-16 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-16 22:42:53 +0000"
     },
     "done": true
   },
@@ -3522,15 +3691,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 22:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-08-16 22:30:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-08-16 22:43:05 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-08-16 22:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-16 22:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-16 22:43:05 +0000"
     },
     "done": true
   },
@@ -3546,9 +3745,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-08-16 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-08-16 22:43:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-16 22:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-08-16 22:42:05 +0000"
     },
     "done": true
   },
@@ -3558,9 +3775,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-16 22:43:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-08-16 22:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-08-16 22:42:53 +0000"
     },
     "done": true
   },
@@ -3570,9 +3799,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 22:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-16 22:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-16 22:43:08 +0000"
     },
     "done": true
   },
@@ -3582,9 +3823,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-16 22:42:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
     "criteria": {
       "has_acacia_planks": "2025-08-16 22:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_chiseled_red_sandstone": "2025-08-16 22:45:42 +0000"
     },
     "done": true
   },
@@ -3597,6 +3850,24 @@
   "mcwtrpdoors:recipes/acacia/acacia_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-08-16 22:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-08-16 22:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-08-16 22:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_red_sandstone": "2025-08-16 22:45:42 +0000"
     },
     "done": true
   },
@@ -3618,6 +3889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-08-16 22:40:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
     "criteria": {
       "has_acacia_planks": "2025-08-16 22:35:27 +0000"
@@ -3630,9 +3907,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-16 22:43:08 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-08-16 22:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-08-16 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-16 22:39:47 +0000"
     },
     "done": true
   },
@@ -3648,9 +3949,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-16 22:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-08-16 22:43:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-08-16 22:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 22:42:25 +0000"
     },
     "done": true
   },

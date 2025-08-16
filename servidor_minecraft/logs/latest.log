@@ -3652,3 +3652,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Aug2025 22:31:26.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
 [16Aug2025 22:36:35.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> xaero-waypoint:dsadsad:D:339:72:1016:2:false:0:Internal-overworld-waypoints
 [16Aug2025 22:37:35.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Man From The Fog
+[16Aug2025 22:41:55.976] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.EnchantRandomlyFunction/]: Couldn't find a compatible enchantment for 0 air
+[16Aug2025 22:43:05.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Diamonds!]
+[16Aug2025 22:43:30.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has made the advancement [Diamonds!]
+[16Aug2025 22:43:59.462] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=308, y=67, z=1016}
+[16Aug2025 22:46:57.515] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[16Aug2025 22:46:59.165] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[16Aug2025 22:47:06.663] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[16Aug2025 22:47:18.065] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[16Aug2025 22:47:19.414] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[16Aug2025 22:47:23.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[16Aug2025 22:48:13.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail liquified to Fanta juice
+[16Aug2025 22:50:22.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail drowned
