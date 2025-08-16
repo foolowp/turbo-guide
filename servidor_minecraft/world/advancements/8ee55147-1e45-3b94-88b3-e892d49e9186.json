@@ -43,9 +43,13 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-08-16 23:04:56 +0000",
+      "old_growth_woodland": "2025-08-16 23:05:48 +0000",
       "dryland": "2025-08-16 05:14:30 +0000",
       "wasteland": "2025-08-16 05:08:38 +0000",
-      "lush_desert": "2025-08-16 05:23:06 +0000"
+      "lush_desert": "2025-08-16 05:23:06 +0000",
+      "volcano": "2025-08-16 23:05:31 +0000",
+      "rocky_rainforest": "2025-08-16 23:04:57 +0000"
     },
     "done": false
   },
@@ -2029,7 +2033,8 @@
     "criteria": {
       "minecraft:pillager": "2025-08-16 05:20:28 +0000",
       "minecraft:husk": "2025-08-16 05:25:57 +0000",
-      "minecraft:zombie": "2025-08-16 22:41:54 +0000"
+      "minecraft:zombie": "2025-08-16 22:41:54 +0000",
+      "minecraft:drowned": "2025-08-16 22:58:49 +0000"
     },
     "done": false
   },
@@ -3427,6 +3432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-16 23:01:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-08-16 22:43:05 +0000"
@@ -3625,6 +3636,12 @@
     },
     "done": true
   },
+  "exposure:recipes/decorations/lightroom": {
+    "criteria": {
+      "has_developed_film": "2025-08-16 23:02:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-08-16 22:35:27 +0000"
@@ -3733,6 +3750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-16 23:01:46 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/acacia_seat": {
     "criteria": {
       "has_plank": "2025-08-16 22:35:27 +0000"
@@ -3742,6 +3765,12 @@
   "mcwtrpdoors:recipes/acacia/acacia_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-08-16 22:30:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skunk": {
+    "criteria": {
+      "ex": "2025-08-16 23:06:56 +0000"
     },
     "done": true
   },
@@ -3757,6 +3786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-16 23:01:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-16 22:35:27 +0000"
@@ -3766,6 +3801,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_pickaxe": "2025-08-16 22:42:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-16 23:01:46 +0000"
     },
     "done": true
   },
@@ -3790,6 +3831,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-08-16 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-08-16 23:06:30 +0000"
     },
     "done": true
   },
@@ -3823,6 +3870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-08-16 23:06:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-16 22:42:53 +0000"
@@ -3832,6 +3885,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
     "criteria": {
       "has_acacia_planks": "2025-08-16 22:35:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2025-08-16 23:06:30 +0000"
     },
     "done": true
   },
@@ -3916,6 +3975,12 @@
   "mcwtrpdoors:recipes/acacia/acacia_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-08-16 22:35:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-08-16 23:01:42 +0000"
     },
     "done": true
   },
