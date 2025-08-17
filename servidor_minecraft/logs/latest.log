@@ -264,3 +264,9 @@
 [17Aug2025 02:14:59.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was squashed by a falling anvil
 [17Aug2025 02:18:49.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by The Moonflower
 [17Aug2025 02:21:48.162] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1703, y=118, z=2843}
+[17Aug2025 02:27:16.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Siren Head
+[17Aug2025 02:27:43.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 drowned
+[17Aug2025 02:29:09.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ander31> como teayudo
+[17Aug2025 02:32:14.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ander31 lost connection: Disconnected
+[17Aug2025 02:32:14.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 left the game
+[17Aug2025 02:32:14.969] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ander31
