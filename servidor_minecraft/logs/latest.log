@@ -151,3 +151,34 @@
 [17Aug2025 00:31:11.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was doomed to fall
 [17Aug2025 00:32:34.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 blew up
 [17Aug2025 00:33:07.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> xaero-waypoint:barco con aldeanos:B:-163:81:2852:4:false:0:Internal-overworld-waypoints
+[17Aug2025 00:35:19.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -6.970533549410476,0.0,-7.704308552448765
+[17Aug2025 00:35:19.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -7.266523159573012,0.0,-7.969291782616892
+[17Aug2025 00:35:19.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -7.5674649862867795,0.0,-8.227931468815314
+[17Aug2025 00:35:19.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -7.873266295593027,0.0,-8.480155590947106
+[17Aug2025 00:35:19.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -8.18379139836108,0.0,-8.725962411267119
+[17Aug2025 00:35:19.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -8.498873202672087,0.0,-8.965408959033539
+[17Aug2025 00:35:19.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -8.818322858455474,0.0,-9.198600100449312
+[17Aug2025 00:35:19.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -9.14193777083446,0.0,-9.425678258301105
+[17Aug2025 00:35:19.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -9.469505019791427,0.0,-9.64682075153496
+[17Aug2025 00:35:19.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -9.800808941742616,0.0,-9.8622267558585
+[17Aug2025 00:35:19.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -10.13563274499927,0.0,-10.072115783027584
+[17Aug2025 00:36:50.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Sucker
+[17Aug2025 00:37:40.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5558ms or 111 ticks behind
+[17Aug2025 00:37:40.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ander31 moved too quickly! 6.922422940215711,7.253890725948764,1.0722319458409402
+[17Aug2025 00:38:39.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[17Aug2025 00:40:02.113] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1669, y=111, z=2823}
+[17Aug2025 00:40:13.266] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[17Aug2025 00:43:25.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Nightmare Stalker
+[17Aug2025 00:44:48.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by The Moonflower
+[17Aug2025 00:44:56.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 died
+[17Aug2025 00:46:06.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved wrongly! 0.32307176480071575
+[17Aug2025 00:46:32.162] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-1172, y=62, z=2062}
+[17Aug2025 00:47:56.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by The Swarmer
+[17Aug2025 00:49:12.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Skeleton Thrasher
+[17Aug2025 00:49:30.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Man From The Fog
+[17Aug2025 00:49:56.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Skeleton Thrasher
+[17Aug2025 00:50:00.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported blackdesfail to ander31
+[17Aug2025 00:50:24.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has made the advancement [Dark Metallurgy]
+[17Aug2025 00:50:27.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Siren Head
+[17Aug2025 00:50:54.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Siren Head
+[17Aug2025 00:52:12.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Ice Bucket Challenge]
