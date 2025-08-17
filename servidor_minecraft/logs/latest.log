@@ -205,3 +205,14 @@
 [17Aug2025 01:12:44.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Enderman
 [17Aug2025 01:13:21.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Cave Dweller
 [17Aug2025 01:14:32.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was shot by The Spitter
+[17Aug2025 01:16:17.812] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1673, y=43, z=2875}
+[17Aug2025 01:16:33.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Sucker
+[17Aug2025 01:16:36.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Sucker
+[17Aug2025 01:18:23.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Cave Spider
+[17Aug2025 01:18:28.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Door Knight
+[17Aug2025 01:19:36.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ander31 lost connection: Disconnected
+[17Aug2025 01:19:36.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 left the game
+[17Aug2025 01:19:36.920] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ander31
+[17Aug2025 01:19:43.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
+[17Aug2025 01:19:43.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[17Aug2025 01:19:43.920] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client blackdesfail
