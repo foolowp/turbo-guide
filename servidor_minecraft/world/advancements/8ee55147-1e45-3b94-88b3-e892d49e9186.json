@@ -4248,6 +4248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-17 02:14:28 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/cut_black_sandstone_slab_from_black_sandstone_stonecutting": {
     "criteria": {
       "has_black_sandstone": "2025-08-17 02:13:09 +0000"
