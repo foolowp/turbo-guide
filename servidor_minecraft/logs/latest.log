@@ -216,3 +216,20 @@
 [17Aug2025 01:19:43.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
 [17Aug2025 01:19:43.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
 [17Aug2025 01:19:43.920] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client blackdesfail
+[17Aug2025 01:29:57.213] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2cf8256b[id=<null>,name=ander31,properties={},legacy=false] (/127.122.23.113:54145) lost connection: Disconnected
+[17Aug2025 01:33:44.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ander31[/127.122.23.113:52135] logged in with entity id 257029 at (-1705.2414935221202, 39.0, 2850.6430939106785)
+[17Aug2025 01:33:44.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 joined the game
+[17Aug2025 01:33:44.894] [Server thread/INFO] [Jade/]: Syncing config to ander31 (b1453593-5f83-3666-8d38-4070cb18656a)
+[17Aug2025 01:33:45.129] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ander31 (18)
+[17Aug2025 01:33:45.129] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ander31
+[17Aug2025 01:33:56.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:38269] logged in with entity id 257574 at (-1640.613614431239, 43.0, 2823.300000011921)
+[17Aug2025 01:33:56.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
+[17Aug2025 01:33:56.085] [Server thread/INFO] [Jade/]: Syncing config to blackdesfail (8ee55147-1e45-3b94-88b3-e892d49e9186)
+[17Aug2025 01:33:56.270] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of blackdesfail (18)
+[17Aug2025 01:33:56.271] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to blackdesfail
+[17Aug2025 01:34:31.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by ander31
+[17Aug2025 01:38:29.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail fell from a high place
+[17Aug2025 01:39:49.473] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-1694, y=40, z=2823}
+[17Aug2025 01:44:32.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Fishy Business]
+[17Aug2025 01:44:45.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by ander31
+[17Aug2025 01:45:07.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has made the advancement [Fishy Business]
