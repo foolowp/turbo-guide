@@ -187,3 +187,21 @@
 [17Aug2025 01:02:55.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Cave Dweller
 [17Aug2025 01:03:22.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail burned to death
 [17Aug2025 01:03:44.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail fell from a high place
+[17Aug2025 01:05:35.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The nearest minecraft:ocean is at [864, 75, -1120] (1563 blocks away)
+[17Aug2025 01:05:35.247] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ocean took 646 ms
+[17Aug2025 01:06:17.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Baby Spider
+[17Aug2025 01:06:28.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was shot by Bonescaller
+[17Aug2025 01:06:32.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail fell from a high place
+[17Aug2025 01:06:39.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was shot by Bonescaller
+[17Aug2025 01:06:46.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail fell from a high place
+[17Aug2025 01:07:01.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was shot by Bonescaller
+[17Aug2025 01:07:01.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail fell from a high place
+[17Aug2025 01:07:11.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was shot by Bonescaller
+[17Aug2025 01:07:14.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail fell from a high place
+[17Aug2025 01:09:50.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Cave Spider
+[17Aug2025 01:10:24.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ander31 to blackdesfail
+[17Aug2025 01:10:55.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> 864, 75, -1120
+[17Aug2025 01:11:35.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Enderman
+[17Aug2025 01:12:44.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Enderman
+[17Aug2025 01:13:21.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Cave Dweller
+[17Aug2025 01:14:32.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was shot by The Spitter

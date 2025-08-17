@@ -2037,10 +2037,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-16 05:20:28 +0000",
+      "minecraft:spider": "2025-08-17 01:08:35 +0000",
       "minecraft:husk": "2025-08-16 05:25:57 +0000",
       "minecraft:cave_spider": "2025-08-17 01:01:09 +0000",
       "minecraft:zombie": "2025-08-16 22:41:54 +0000",
-      "minecraft:drowned": "2025-08-16 22:58:49 +0000"
+      "minecraft:drowned": "2025-08-16 22:58:49 +0000",
+      "minecraft:zombie_villager": "2025-08-17 01:08:43 +0000"
     },
     "done": false
   },
@@ -4083,6 +4085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-17 01:13:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-08-17 00:41:42 +0000"
@@ -4140,6 +4148,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-08-17 00:32:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-17 01:09:12 +0000"
     },
     "done": true
   },
@@ -4203,6 +4217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-17 01:13:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-08-17 00:37:46 +0000"
@@ -4212,6 +4232,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-08-17 00:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-17 01:13:03 +0000"
     },
     "done": true
   },
