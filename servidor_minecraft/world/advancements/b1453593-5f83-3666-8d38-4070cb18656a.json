@@ -178,7 +178,8 @@
       "wasteland_steppe": "2025-08-16 23:07:13 +0000",
       "volcano": "2025-08-16 23:05:34 +0000",
       "rocky_rainforest": "2025-08-16 23:05:04 +0000",
-      "volcanic_plains": "2025-08-16 23:09:07 +0000"
+      "volcanic_plains": "2025-08-16 23:09:07 +0000",
+      "rainforest": "2025-08-17 00:55:09 +0000"
     },
     "done": false
   },
@@ -3940,9 +3941,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-08-17 00:50:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-08-17 00:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-17 00:57:10 +0000"
     },
     "done": true
   },

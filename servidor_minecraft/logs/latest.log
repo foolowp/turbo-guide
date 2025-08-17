@@ -182,3 +182,8 @@
 [17Aug2025 00:50:27.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Siren Head
 [17Aug2025 00:50:54.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Siren Head
 [17Aug2025 00:52:12.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Ice Bucket Challenge]
+[17Aug2025 00:58:17.335] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[17Aug2025 00:58:37.112] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1620, y=70, z=2884}
+[17Aug2025 01:02:55.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Cave Dweller
+[17Aug2025 01:03:22.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail burned to death
+[17Aug2025 01:03:44.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail fell from a high place

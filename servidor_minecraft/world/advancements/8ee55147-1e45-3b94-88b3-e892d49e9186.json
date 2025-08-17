@@ -2038,6 +2038,7 @@
     "criteria": {
       "minecraft:pillager": "2025-08-16 05:20:28 +0000",
       "minecraft:husk": "2025-08-16 05:25:57 +0000",
+      "minecraft:cave_spider": "2025-08-17 01:01:09 +0000",
       "minecraft:zombie": "2025-08-16 22:41:54 +0000",
       "minecraft:drowned": "2025-08-16 22:58:49 +0000"
     },
@@ -2139,6 +2140,7 @@
       "beef": "2025-08-16 05:25:43 +0000",
       "bread": "2025-08-16 05:41:43 +0000",
       "rotten_flesh": "2025-08-16 05:31:45 +0000",
+      "suspicious_stew": "2025-08-17 00:57:56 +0000",
       "cooked_chicken": "2025-08-17 00:13:52 +0000"
     },
     "done": false
@@ -4129,6 +4131,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-17 00:52:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-08-17 00:32:08 +0000"
@@ -4165,9 +4173,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-17 01:01:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-08-17 00:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-17 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-08-17 00:52:12 +0000"
     },
     "done": true
   },
@@ -4180,6 +4206,18 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-08-17 00:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-08-17 00:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-17 00:52:12 +0000"
     },
     "done": true
   },
