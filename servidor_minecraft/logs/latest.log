@@ -273,3 +273,32 @@
 [17Aug2025 03:01:34.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
 [17Aug2025 03:01:34.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
 [17Aug2025 03:01:34.313] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client blackdesfail
+[17Aug2025 04:11:48.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Aug2025 04:11:48.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Aug2025 04:11:48.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Aug2025 04:11:48.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Aug2025 04:11:49.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Aug2025 04:11:49.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Aug2025 04:11:49.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[17Aug2025 04:11:49.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/arphex:the_webrooms
+[17Aug2025 04:11:49.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[17Aug2025 04:11:49.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[17Aug2025 04:11:49.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[17Aug2025 04:11:49.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[17Aug2025 04:11:49.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Aug2025 04:11:49.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/arphex:the_crawling
+[17Aug2025 04:11:50.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Aug2025 04:11:50.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Aug2025 04:11:50.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[17Aug2025 04:11:50.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_webrooms): All chunks are saved
+[17Aug2025 04:11:50.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[17Aug2025 04:11:50.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[17Aug2025 04:11:50.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[17Aug2025 04:11:50.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[17Aug2025 04:11:50.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Aug2025 04:11:50.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_crawling): All chunks are saved
+[17Aug2025 04:11:50.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Aug2025 04:11:50.585] [Server thread/INFO] [Framework/]: Unloading server configs...
+[17Aug2025 04:11:50.586] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[17Aug2025 04:11:50.591] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[17Aug2025 04:11:50.596] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
