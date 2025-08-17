@@ -233,3 +233,32 @@
 [17Aug2025 01:44:32.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Fishy Business]
 [17Aug2025 01:44:45.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by ander31
 [17Aug2025 01:45:07.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has made the advancement [Fishy Business]
+[17Aug2025 01:45:54.412] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-1741, y=115, z=2866}
+[17Aug2025 01:49:41.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by The Somnolence
+[17Aug2025 01:50:03.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Night Night]
+[17Aug2025 01:50:07.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by The Somnolence
+[17Aug2025 01:50:36.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by The Somnolence
+[17Aug2025 01:51:00.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by The Somnolence
+[17Aug2025 01:51:20.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by The Somnolence
+[17Aug2025 01:52:03.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Zombie
+[17Aug2025 01:52:06.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 blew up
+[17Aug2025 01:52:59.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Cave Dweller
+[17Aug2025 01:53:59.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Nightmare Stalker
+[17Aug2025 01:54:46.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has reached the goal [Fighting Nightmares]
+[17Aug2025 01:55:00.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[17Aug2025 01:55:34.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was doomed to fall by Baby Spider
+[17Aug2025 01:55:56.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ander31 moved wrongly!
+[17Aug2025 01:56:20.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 blew up
+[17Aug2025 01:56:44.763] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1723, y=65, z=2918}
+[17Aug2025 02:00:03.812] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1735, y=123, z=2847}
+[17Aug2025 02:00:29.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has completed the challenge [This fish looks odd]
+[17Aug2025 02:07:09.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Shy Guy
+[17Aug2025 02:07:41.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Shy Guy
+[17Aug2025 02:08:13.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Shy Guy
+[17Aug2025 02:08:46.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Shy Guy
+[17Aug2025 02:09:27.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Shy Guy
+[17Aug2025 02:10:00.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Shy Guy
+[17Aug2025 02:10:38.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Shy Guy
+[17Aug2025 02:13:16.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Shy Guy
+[17Aug2025 02:14:38.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Cave Spider
+[17Aug2025 02:14:59.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was squashed by a falling anvil
