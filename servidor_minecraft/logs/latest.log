@@ -24,3 +24,99 @@
 [17Aug2025 00:11:10.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved too quickly! 8.724895593212068,0.8800391385729398,4.881876336010464
 [17Aug2025 00:11:10.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
 [17Aug2025 00:11:44.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved too quickly! 9.66450499203961,-1.4524514780759716,3.134145387244189
+[17Aug2025 00:13:43.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
+[17Aug2025 00:14:17.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ander31> xaero-waypoint:adadsadsadsad:A:-1631:93:2845:7:false:0:Internal-overworld-waypoints
+[17Aug2025 00:14:30.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ander31> xaero-waypoint:Aldea:A:565:64:1280:9:false:0:Internal-overworld-waypoints
+[17Aug2025 00:15:40.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has made the advancement [Hot Stuff]
+[17Aug2025 00:18:37.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -8.307637941459689,0.0,5.9864658957021675
+[17Aug2025 00:18:37.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -8.606376360698732,0.0,6.25012612913406
+[17Aug2025 00:18:37.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -8.904390012449426,0.0,6.514812502397035
+[17Aug2025 00:18:37.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -9.201732983582247,0.0,6.7804419573953965
+[17Aug2025 00:18:37.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -9.498456569295854,0.0,7.046936938563249
+[17Aug2025 00:18:37.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -9.794609556009618,0.0,7.314224848200411
+[17Aug2025 00:18:37.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -10.090235845911707,0.0,7.58224033906572
+[17Aug2025 00:18:37.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -10.385374943519992,0.0,7.850924594917615
+[17Aug2025 00:18:37.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -10.680065031091885,0.0,8.120221889035292
+[17Aug2025 00:18:37.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -10.97434310457561,0.0,8.390079275266544
+[17Aug2025 00:18:37.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -11.268242456598614,0.0,8.66044909835
+[17Aug2025 00:18:37.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -11.561793048661912,0.0,8.931288470414529
+[17Aug2025 00:18:37.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -11.85502184611596,0.0,9.202558786788813
+[17Aug2025 00:18:37.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -12.147955749692983,0.0,9.474222520478179
+[17Aug2025 00:18:37.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -12.440618971913977,0.0,9.746245895325501
+[17Aug2025 00:18:37.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -12.733033304047353,0.0,10.018598510927404
+[17Aug2025 00:18:37.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -13.025218352646107,0.0,10.291253008784224
+[17Aug2025 00:18:37.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -13.317191767332815,0.0,10.564184762521563
+[17Aug2025 00:18:37.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -13.608972070272898,0.0,10.83736882561152
+[17Aug2025 00:18:37.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -13.900575931414778,0.0,11.110782749904502
+[17Aug2025 00:18:37.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! -14.192018353711774,0.0,11.384406330204001
+[17Aug2025 00:18:37.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2262ms or 45 ticks behind
+[17Aug2025 00:19:40.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 6.078826734245581,0.0,-8.42527639365835
+[17Aug2025 00:19:40.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 6.31733909386827,0.0,-8.746283538105217
+[17Aug2025 00:19:40.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 6.555984992377205,0.0,-9.067201368812675
+[17Aug2025 00:19:40.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 6.794751075880583,0.0,-9.38803881715694
+[17Aug2025 00:19:40.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 7.033628393652691,0.0,-9.708801622872215
+[17Aug2025 00:19:40.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 7.2726058222639836,0.0,-10.029497250222903
+[17Aug2025 00:19:40.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 7.511676418404704,0.0,-10.350130114818057
+[17Aug2025 00:19:40.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 7.750830865319642,0.0,-10.670706492934187
+[17Aug2025 00:19:40.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 7.990063847568649,0.0,-10.991229734716853
+[17Aug2025 00:19:40.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 8.22936751161643,0.0,-11.31170515380063
+[17Aug2025 00:19:40.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 8.468734789281427,0.0,-11.632137532456454
+[17Aug2025 00:19:40.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 8.708162386976937,0.0,-11.952528872498988
+[17Aug2025 00:19:40.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 8.947644272698483,0.0,-12.272883277790243
+[17Aug2025 00:19:40.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 9.187175017642176,0.0,-12.593204441806392
+[17Aug2025 00:19:40.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 9.426749735884641,0.0,-12.913495688675539
+[17Aug2025 00:19:40.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 9.66636403009494,0.0,-13.233760010113201
+[17Aug2025 00:19:40.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 9.906017010451933,0.0,-13.553997800158868
+[17Aug2025 00:19:40.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 10.145704808339985,0.0,-13.87421171195274
+[17Aug2025 00:19:40.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 10.385423942005161,0.0,-14.194404133320404
+[17Aug2025 00:19:40.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 10.625171277869015,0.0,-14.514577213305074
+[17Aug2025 00:19:40.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 10.86494399571103,0.0,-14.834732886045458
+[17Aug2025 00:19:40.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 11.104739557332778,0.0,-15.154872892266212
+[17Aug2025 00:19:40.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 11.344555678355732,0.0,-15.474998798619708
+[17Aug2025 00:19:40.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 11.584390302839267,0.0,-15.79511201509331
+[17Aug2025 00:19:40.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 11.824796266849091,0.0,-16.1147901781128
+[17Aug2025 00:19:40.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 12.066750195163593,0.0,-16.433245032568266
+[17Aug2025 00:19:40.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 12.311524163181389,0.0,-16.749352971103235
+[17Aug2025 00:19:40.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 12.560067008367412,0.0,-17.062172318783723
+[17Aug2025 00:19:40.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 12.813064344136933,0.0,-17.370930953165498
+[17Aug2025 00:19:40.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 13.07099260773964,0.0,-17.67500735414842
+[17Aug2025 00:19:40.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 13.33415764693325,0.0,-17.973918201733795
+[17Aug2025 00:19:40.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 13.60272785356426,0.0,-18.267304637966845
+[17Aug2025 00:19:40.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 13.876764706496488,0.0,-18.554914685416406
+[17Aug2025 00:19:40.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 14.155843093466558,0.0,-18.837158322683536
+[17Aug2025 00:19:40.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 14.439157917099067,0.0,-19.114983993817077
+[17Aug2025 00:19:40.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 14.72558287309596,0.0,-19.389754089274447
+[17Aug2025 00:19:40.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 15.014151505670327,0.0,-19.662585590802337
+[17Aug2025 00:19:40.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 15.30404113700996,0.0,-19.934388386574938
+[17Aug2025 00:19:40.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 15.594559230809011,0.0,-20.205895979235265
+[17Aug2025 00:19:40.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 15.885124643029997,0.0,-20.477698029338626
+[17Aug2025 00:19:40.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 16.175260060815503,0.0,-20.7502576601928
+[17Aug2025 00:19:40.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 16.464573850274974,0.0,-21.023937639977703
+[17Aug2025 00:19:40.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 16.752753742386403,0.0,-21.29901242891674
+[17Aug2025 00:19:40.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 17.03955249087113,0.0,-21.575686761022098
+[17Aug2025 00:19:40.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 17.324779989697674,0.0,-21.854106608366237
+[17Aug2025 00:19:40.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 17.608293055179843,0.0,-22.13437139213329
+[17Aug2025 00:19:40.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 17.88999163339861,0.0,-22.416539554130395
+[17Aug2025 00:19:40.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 18.169812389886033,0.0,-22.700636014938937
+[17Aug2025 00:19:40.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 18.447719850212422,0.0,-22.98666122014265
+[17Aug2025 00:19:40.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 18.7237040796432,0.0,-23.274594079567578
+[17Aug2025 00:19:40.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 18.997775586658122,0.0,-23.564397050799016
+[17Aug2025 00:19:40.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 19.269960644849107,0.0,-23.8560205839608
+[17Aug2025 00:19:40.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 19.540299956689864,0.0,-24.14940460744765
+[17Aug2025 00:19:40.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 19.808841473700454,0.0,-24.44448466884387
+[17Aug2025 00:19:40.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 20.07564279147283,0.0,-24.741190124791956
+[17Aug2025 00:19:40.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 20.34077032496208,0.0,-25.03944492958817
+[17Aug2025 00:19:40.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 20.604292553629534,0.0,-25.3391731077013
+[17Aug2025 00:19:40.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 20.866279880184834,0.0,-25.64029882871182
+[17Aug2025 00:19:40.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 21.126804509041506,0.0,-25.94274647661996
+[17Aug2025 00:19:40.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 21.385940314575237,0.0,-26.246440691732914
+[17Aug2025 00:19:40.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 21.643759701346085,0.0,-26.551308770199284
+[17Aug2025 00:19:40.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 21.900336811405907,0.0,-26.857278077568026
+[17Aug2025 00:19:40.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5328ms or 106 ticks behind
+[17Aug2025 00:19:40.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 16.3152819844355,0.0,-19.060108221839982
+[17Aug2025 00:19:40.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 16.56958261118791,0.0,-19.368078526681984
+[17Aug2025 00:19:41.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 16.82284721199204,0.0,-19.676952434613668
+[17Aug2025 00:19:41.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved too quickly! 17.07513985854939,0.0,-19.98666996504744
+[17Aug2025 00:20:57.712] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1612, y=75, z=2880}
+[17Aug2025 00:21:58.906] [Worker-Main-108/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Aug2025 00:22:15.498] [Worker-Main-124/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
