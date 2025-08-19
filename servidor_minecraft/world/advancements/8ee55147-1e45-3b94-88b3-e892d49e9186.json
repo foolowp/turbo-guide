@@ -4248,18 +4248,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-08-17 02:14:28 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/cut_black_sandstone_slab_from_black_sandstone_stonecutting": {
-    "criteria": {
-      "has_black_sandstone": "2025-08-17 02:13:09 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-08-17 01:41:35 +0000"
@@ -4269,24 +4257,6 @@
   "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2025-08-17 01:41:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "pufferfish": "2025-08-17 01:44:32 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-08-17 02:13:09 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2025-08-17 01:54:46 +0000"
     },
     "done": true
   },
@@ -4308,18 +4278,6 @@
     },
     "done": true
   },
-  "undead_revamp2:nightnight": {
-    "criteria": {
-      "nightnight_0": "2025-08-17 01:50:03 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/black_sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2025-08-17 02:13:09 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2025-08-17 01:41:35 +0000"
@@ -4335,30 +4293,6 @@
   "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2025-08-17 01:41:35 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/black_sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2025-08-17 02:13:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-08-17 01:47:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-08-17 01:47:10 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/black_sandstone_stairs_from_black_sandstone_stonecutting": {
-    "criteria": {
-      "has_black_sandstone": "2025-08-17 02:13:09 +0000"
     },
     "done": true
   },
@@ -4398,12 +4332,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-08-17 01:58:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
     "criteria": {
       "has_sign": "2025-08-17 01:41:35 +0000"
@@ -4416,39 +4344,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/black_sandstone_wall_from_black_sandstone_stonecutting": {
-    "criteria": {
-      "has_black_sandstone": "2025-08-17 02:13:09 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/black_sandstone_slab_from_black_sandstone_stonecutting": {
-    "criteria": {
-      "has_black_sandstone": "2025-08-17 02:13:09 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/cut_black_sandstone_slab_from_cut_black_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_black_sandstone": "2025-08-17 02:13:09 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/cut_black_sandstone_from_black_sandstone_stonecutting": {
-    "criteria": {
-      "has_black_sandstone": "2025-08-17 02:13:09 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-08-17 01:41:35 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/black_sandstone_wall": {
-    "criteria": {
-      "has_black_sandstone": "2025-08-17 02:13:09 +0000"
     },
     "done": true
   },
@@ -4476,21 +4374,27 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/chiseled_black_sandstone": {
-    "criteria": {
-      "has_black_sandstone": "2025-08-17 02:13:09 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-08-17 01:41:35 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/chiseled_black_sandstone_from_black_sandstone_stonecutting": {
+  "minecraft:husbandry/fishy_business": {
     "criteria": {
-      "has_black_sandstone": "2025-08-17 02:13:09 +0000"
+      "pufferfish": "2025-08-17 01:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-17 01:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-08-17 01:47:10 +0000"
     },
     "done": true
   },
@@ -4500,9 +4404,105 @@
     },
     "done": true
   },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight_0": "2025-08-17 01:50:03 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-08-17 01:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-08-17 01:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-17 01:58:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cut_black_sandstone_slab_from_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_black_sandstone": "2025-08-17 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-08-17 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-08-17 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-08-17 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone_stairs_from_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_black_sandstone": "2025-08-17 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/black_sandstone_wall_from_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_black_sandstone": "2025-08-17 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone_slab_from_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_black_sandstone": "2025-08-17 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cut_black_sandstone_slab_from_cut_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_black_sandstone": "2025-08-17 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cut_black_sandstone_from_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_black_sandstone": "2025-08-17 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/black_sandstone_wall": {
+    "criteria": {
+      "has_black_sandstone": "2025-08-17 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_black_sandstone": {
+    "criteria": {
+      "has_black_sandstone": "2025-08-17 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_black_sandstone_from_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_black_sandstone": "2025-08-17 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-17 02:14:28 +0000"
     },
     "done": true
   },
