@@ -3797,3 +3797,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Aug2025 22:11:07.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [blackdesfail: Set own game mode to Survival Mode]
 [21Aug2025 22:11:57.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail tried to swim in lava
 [21Aug2025 22:17:55.471] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1675, y=64, z=2893}
+[21Aug2025 22:26:52.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was shot by Skeleton
+[21Aug2025 22:30:47.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has made the advancement [Chompy]
+[21Aug2025 22:32:37.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Crocodile
+[21Aug2025 22:32:51.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Corpse Fly
+[21Aug2025 22:33:19.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was shot by Skeleton

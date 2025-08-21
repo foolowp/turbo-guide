@@ -1301,6 +1301,7 @@
       "bread": "2025-08-16 05:37:52 +0000",
       "rotten_flesh": "2025-08-16 05:22:34 +0000",
       "glow_berries": "2025-08-19 04:30:41 +0000",
+      "melon_slice": "2025-08-21 22:31:48 +0000",
       "cooked_chicken": "2025-08-16 23:10:30 +0000",
       "cooked_salmon": "2025-08-19 03:10:27 +0000"
     },
@@ -5617,6 +5618,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-21 21:44:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-08-21 22:30:47 +0000"
     },
     "done": true
   },
