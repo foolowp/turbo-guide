@@ -3811,3 +3811,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Aug2025 22:47:48.471] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1755, y=67, z=2905}
 [21Aug2025 23:00:16.621] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-1697, y=111, z=2811}
 [21Aug2025 23:02:25.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
+[21Aug2025 23:07:59.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has made the advancement [It's an Emu!!!]
+[21Aug2025 23:08:38.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2423ms or 48 ticks behind
+[21Aug2025 23:09:12.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ander31 moved too quickly! 1.9370404983524168,0.756759288177264,9.818541915324658
+[21Aug2025 23:09:12.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3317ms or 66 ticks behind
+[21Aug2025 23:09:38.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Hot Stuff]
+[21Aug2025 23:09:46.985] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-87, 230], pos: BlockPos{x=-1385, y=-32, z=3680}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[21Aug2025 23:09:46.986] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-87, 230], pos: BlockPos{x=-1384, y=-32, z=3680}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[21Aug2025 23:09:46.986] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-87, 230], pos: BlockPos{x=-1383, y=-32, z=3680}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[21Aug2025 23:09:46.987] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-87, 230], pos: BlockPos{x=-1387, y=-29, z=3680}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[21Aug2025 23:10:07.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Sucker
+[21Aug2025 23:10:25.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 drowned
+[21Aug2025 23:11:53.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ander31> xaero-waypoint:rosas:R:-1137:66:3431:12:false:0:Internal-overworld-waypoints
+[21Aug2025 23:14:01.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[21Aug2025 23:15:17.568] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1656, y=62, z=2911}
+[21Aug2025 23:15:19.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[21Aug2025 23:15:25.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Bypassing the Expiration Date]
+[21Aug2025 23:15:43.104] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-78, 240], pos: BlockPos{x=-1248, y=-17, z=3841}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[21Aug2025 23:15:43.105] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-78, 240], pos: BlockPos{x=-1248, y=-17, z=3842}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[21Aug2025 23:15:43.105] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-78, 240], pos: BlockPos{x=-1248, y=-17, z=3843}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[21Aug2025 23:15:43.105] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-78, 239], pos: BlockPos{x=-1248, y=-14, z=3839}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[21Aug2025 23:15:48.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ander31 moved too quickly! 4.509656915342248,1.7508129212553172,8.947164568276094
+[21Aug2025 23:15:48.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3029ms or 60 ticks behind
+[21Aug2025 23:16:07.374] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-76, 244], pos: BlockPos{x=-1216, y=-19, z=3914}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[21Aug2025 23:16:07.374] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-76, 244], pos: BlockPos{x=-1216, y=-19, z=3913}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[21Aug2025 23:16:07.374] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-76, 244], pos: BlockPos{x=-1216, y=-19, z=3912}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[21Aug2025 23:16:07.375] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-76, 244], pos: BlockPos{x=-1216, y=-16, z=3916}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[21Aug2025 23:16:16.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ander31 moved too quickly! -6.050112214034243,0.42355929454303975,8.284758194720325
+[21Aug2025 23:16:16.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2987ms or 59 ticks behind
+[21Aug2025 23:16:21.876] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[21Aug2025 23:17:27.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[21Aug2025 23:17:47.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4582ms or 91 ticks behind
+[21Aug2025 23:18:05.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3202ms or 64 ticks behind
+[21Aug2025 23:18:19.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Corpse Fish
+[21Aug2025 23:20:04.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Skeleton Demoman
+[21Aug2025 23:20:12.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Good Demoman]
+[21Aug2025 23:21:19.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail fell from a high place
+[21Aug2025 23:21:56.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Sucker
+[21Aug2025 23:22:01.671] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1681, y=117, z=2860}
+[21Aug2025 23:22:09.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 died because of Zombie
+[21Aug2025 23:22:14.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Sucker
+[21Aug2025 23:22:20.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 died because of The Pregnant
+[21Aug2025 23:22:27.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Sucker
+[21Aug2025 23:22:32.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Sucker
+[21Aug2025 23:22:49.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by The Pregnant
+[21Aug2025 23:22:53.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has completed the challenge [Yo mama so fat, she digests her kids]
+[21Aug2025 23:23:32.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by ander31

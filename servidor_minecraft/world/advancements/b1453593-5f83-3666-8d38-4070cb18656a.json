@@ -170,6 +170,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-08-16 23:06:41 +0000",
+      "lush_savanna": "2025-08-21 23:08:31 +0000",
       "old_growth_woodland": "2025-08-16 23:05:51 +0000",
       "spider_nest": "2025-08-16 23:12:30 +0000",
       "dryland": "2025-08-16 05:12:14 +0000",
@@ -708,6 +709,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-08-16 05:08:17 +0000",
+      "minecraft:stony_shore": "2025-08-21 23:18:13 +0000",
       "minecraft:desert": "2025-08-16 05:02:23 +0000",
       "minecraft:warm_ocean": "2025-08-16 05:04:04 +0000",
       "minecraft:deep_dark": "2025-08-19 04:32:22 +0000"
@@ -5561,6 +5563,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-08-21 23:07:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-08-21 21:42:16 +0000"
@@ -5588,6 +5596,12 @@
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-08-21 21:40:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-21 23:15:16 +0000"
     },
     "done": true
   },
@@ -5621,6 +5635,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-21 23:15:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-21 21:44:54 +0000"
@@ -5636,6 +5656,18 @@
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-08-21 22:30:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-21 23:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-21 23:22:55 +0000"
     },
     "done": true
   },
@@ -5699,9 +5731,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-21 23:22:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-08-21 21:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-21 23:22:55 +0000"
     },
     "done": true
   },
