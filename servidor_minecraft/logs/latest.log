@@ -3802,3 +3802,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Aug2025 22:32:37.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Crocodile
 [21Aug2025 22:32:51.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Corpse Fly
 [21Aug2025 22:33:19.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was shot by Skeleton
+[21Aug2025 22:33:58.972] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1588, y=62, z=2970}
+[21Aug2025 22:34:37.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail fell from a high place
+[21Aug2025 22:38:12.321] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1742, y=81, z=2878}
+[21Aug2025 22:42:41.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail hit the ground too hard
+[21Aug2025 22:43:02.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by The Hunter
