@@ -3789,3 +3789,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Aug2025 21:56:23.425] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
 [21Aug2025 21:56:56.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Door Knight
 [21Aug2025 22:01:45.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Zombie
+[21Aug2025 22:04:20.723] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[21Aug2025 22:05:25.421] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1653, y=110, z=2836}
+[21Aug2025 22:10:47.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [blackdesfail: Set own game mode to Creative Mode]
+[21Aug2025 22:10:48.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [blackdesfail: Set own game mode to Survival Mode]
+[21Aug2025 22:10:51.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [blackdesfail: Set own game mode to Spectator Mode]
+[21Aug2025 22:11:07.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [blackdesfail: Set own game mode to Survival Mode]
+[21Aug2025 22:11:57.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail tried to swim in lava
+[21Aug2025 22:17:55.471] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1675, y=64, z=2893}
