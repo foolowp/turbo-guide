@@ -3857,3 +3857,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Aug2025 23:22:49.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by The Pregnant
 [21Aug2025 23:22:53.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has completed the challenge [Yo mama so fat, she digests her kids]
 [21Aug2025 23:23:32.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by ander31
+[21Aug2025 23:27:33.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was squashed by a falling anvil
+[21Aug2025 23:28:29.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 fell from a high place
+[21Aug2025 23:28:42.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ander31> xaero-waypoint:HUECO:H:-1036:61:3811:8:false:0:Internal-overworld-waypoints
+[21Aug2025 23:30:35.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was shot by Skeleton
+[21Aug2025 23:31:10.328] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1679, y=117, z=2860}
+[21Aug2025 23:31:41.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Zombie Bruiser
+[21Aug2025 23:32:07.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Zombie Clown
+[21Aug2025 23:32:13.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Zombie Clown
+[21Aug2025 23:32:14.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Life turned out to be a comedy]
