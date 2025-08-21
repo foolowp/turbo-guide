@@ -3783,3 +3783,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Aug2025 21:49:13.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has completed the challenge [+PARRY]
 [21Aug2025 21:49:17.872] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1621, y=78, z=2881}
 [21Aug2025 21:51:53.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[21Aug2025 21:52:57.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Door Knight
+[21Aug2025 21:54:33.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Door Knight
+[21Aug2025 21:55:47.921] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1669, y=43, z=2861}
+[21Aug2025 21:56:23.425] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity shy_guy:shy_guy but it was marked as removed already
+[21Aug2025 21:56:56.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Door Knight
+[21Aug2025 22:01:45.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Zombie
