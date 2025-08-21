@@ -3775,3 +3775,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Aug2025 21:39:17.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Nightmare Stalker
 [21Aug2025 21:39:41.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Nightmare Stalker
 [21Aug2025 21:40:52.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has reached the goal [Fighting Nightmares]
+[21Aug2025 21:44:14.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by Cave Dweller
+[21Aug2025 21:44:33.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [blackdesfail: The difficulty has been set to Hard]
+[21Aug2025 21:45:30.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> furniture
+[21Aug2025 21:45:40.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail hit the ground too hard
+[21Aug2025 21:48:48.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was squashed by a falling anvil
+[21Aug2025 21:49:13.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has completed the challenge [+PARRY]
+[21Aug2025 21:49:17.872] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1621, y=78, z=2881}
+[21Aug2025 21:51:53.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
