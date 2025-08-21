@@ -180,6 +180,7 @@
       "volcano": "2025-08-16 23:05:34 +0000",
       "rocky_rainforest": "2025-08-16 23:05:04 +0000",
       "volcanic_plains": "2025-08-16 23:09:07 +0000",
+      "glowing_grotto": "2025-08-21 23:42:28 +0000",
       "rainforest": "2025-08-17 00:55:09 +0000"
     },
     "done": false
@@ -5542,6 +5543,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-21 21:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-21 23:40:51 +0000"
     },
     "done": true
   },
