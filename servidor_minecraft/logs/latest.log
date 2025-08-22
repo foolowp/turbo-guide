@@ -2,3 +2,16 @@
 [22Aug2025 00:04:04.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail fell from a high place
 [22Aug2025 00:04:35.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 fell from a high place
 [22Aug2025 00:05:24.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was doomed to fall
+[22Aug2025 00:07:04.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Siren Head
+[22Aug2025 00:07:32.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by The Rake
+[22Aug2025 00:07:33.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1707, y=41, z=2878}
+[22Aug2025 00:08:08.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> zzzzzzzzzzzzzzzzzz
+[22Aug2025 00:10:55.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was slain by blackdesfail
+[22Aug2025 00:13:51.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by ander31
+[22Aug2025 00:14:46.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ander31 lost connection: Disconnected
+[22Aug2025 00:14:46.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 left the game
+[22Aug2025 00:14:46.832] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ander31
+[22Aug2025 00:15:10.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
+[22Aug2025 00:15:10.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[22Aug2025 00:15:10.433] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client blackdesfail
+[22Aug2025 00:15:10.489] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
